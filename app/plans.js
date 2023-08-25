@@ -23,7 +23,6 @@ export default function Plans() {
 					
 					- DIGITAL REACH More Than 25 LAKH Viewers
 					
-					- CONCERT Live 4 HOURS [45 MINS ] AD STREAMING
 					
 					- 10×15 FLEX Inside the Campus'
 					rate='Rate: ₹5,99,999'		

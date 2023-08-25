@@ -35,31 +35,31 @@ export default function Hero () {
 				
 			</div>
 
-			<div className='bg-img bg-cover flex justify-center space-x-10'>
-  <div className='mx-auto my-auto'>
+			<div className='bg-img bg-cover flex p-5 flex-row  space-x-20'>
+  <div className='my-auto '>
     <Image
       src='/logo1.png'
       alt="Isai"
-      width={400}
-      height={400}
+      width={200}
+      height={200}
     />
   </div>
   
-  <div className='mx-auto my-auto'>
+  <div className='my-auto'>
     <Image
-      src='/madurai1.png'
+      src='/Madurai2b.png'
       alt="Madurai"
-      width={400}
-      height={400}
+      width={800}
+      height={800}
     />
   </div>
   
-  <div className='mx-auto my-auto'>
+  <div className='my-auto'>
     <Image
       src='/date1.png'
       alt="Date"
-      width={400}
-      height={400}
+      width={200}
+      height={200}
     />
   </div>
 </div>
@@ -115,7 +115,7 @@ export default function Hero () {
       				<Image
         				className='mx-auto rounded-full my-auto mt-10'
          				src='/reshma.jpg'
-        				alt="GymGenie"
+        				alt="reshma"
           				width={200}
           				height={200}
         			/>
@@ -141,7 +141,7 @@ export default function Hero () {
 					<div className='text-2xl font-twcent font-bold text-white bg-gray-900 backdrop-blur-lg backdrop-opacity-50 rounded-lg p-6'> Event Name: Madurai Kulungaa Kulungaa - Music Concert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Date: September 23 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Artists : Sam Vishal, Sakthi Amaran, Vishnupriya Ravi, Srinisha Jayaseelan, Mathichiyam Bala, Reshma Shyam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-Venue: Tamukkam Ground, Madurai</div>		
+Venue: Thamukam Ground, Madurai</div>		
 					</div>
 				
 			
