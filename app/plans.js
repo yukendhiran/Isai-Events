@@ -18,8 +18,8 @@ export default function Plans() {
 					- LOGO Sealed Tickets 
 					[Live Tickets]
 					
-					- BROUCHURE Distribution Inside the VENUE 
-					[BROUCHURES]
+					- BROCHURE Distribution Inside the VENUE 
+					[BROCHURES]
 					
 					- DIGITAL REACH More Than 25 LAKH Viewers
 					
