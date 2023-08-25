@@ -15,7 +15,7 @@ module.exports = {
     },
     extend: {
       spacing: {
-        '200': '50rem', // You can adjust the value as needed
+        '200': '52rem', // You can adjust the value as needed
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
