@@ -50,7 +50,7 @@ Date: September 23 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Artists : Sam Vishal, Sakthi Amaran, Vishnupriya Ravi, Srinisha Jayaseelan, Mathichiyam Bala, Reshma Shyam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Venue: Thamukkam Ground</div>		
 					</div>
-				<div className='flex sm:flex-row sm:space-y-2 lg:flex-row  lg:space-x-5'>
+				<div className='flex sm:flex-row sm:space-y-5 lg:flex-row  lg:space-x-5'>
 				<Link href="https://instagram.com/samvishal0928?igshid=MzRlODBiNWFlZA==">
       				<Image
         				className='mx-auto rounded-full my-auto mt-10'
