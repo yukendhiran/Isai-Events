@@ -5,8 +5,8 @@ export default function Foot() {
   return (
     <div className='bg-gray-900 text-sm'>
       
-      <div className='flex justify-between mx-20'>
-        <div className='text-gray-400 text-lg p-3'>2023, Isai Events India Private Limited All rights reserved.</div>
+      <div className='flex justify-between mx-auto'>
+        <div className='text-gray-400 sm:text-sm lg:text-lg p-3'>2023, Isai Events India Private Limited All rights reserved.</div>
         <div className='flex items-center space-x-4 text-gray-400 text-lg'>
           <Link href='https://instagram.com/isai_events_?igshid=MzRlODBiNWFlZA==' target="_blank" rel="noopener noreferrer">
             
