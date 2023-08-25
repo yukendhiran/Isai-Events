@@ -16,7 +16,7 @@ export default function Hero () {
 						{/*<span className='bg-gradient-to-r from-fuchsia-500 to-cyan-500 bg-clip-text text-transparent'> </span>*/}
 						<div className='text-2xl font-bold font-twcent pl-1 mt-5'>
 						Exciting Opportunity: Sponsorship for  <span className='bg-gradient-to-r from-fuchsia-500 to-cyan-500 bg-clip-text text-transparent'>
-						Madurai Kulunga Kulunga&nbsp;
+						Madurai Kulungaa Kulungaa&nbsp;
 						</span>  <br/>
 							{/*<span className='bg-gradient-to-r from-fuchsia-500 to-cyan-500 bg-clip-text text-transparent'>you</span> */}
 						</div>	
@@ -64,29 +64,7 @@ export default function Hero () {
   </div>
 </div>
 
-
-
-			<Image
-    					className='mx-auto  my-auto '
-   						src='/isaiLogo.svg'
-    					alt="Isai Logo"
-    					width={200}
-    					height={200}
-					/>
-
-			<div className=' h-5 w-10/12 mx-auto sm:mt-50 lg:mt-10'>
-				<div className='flex sm:flex-col lg:flex-row space-x-10 '>
-				
-					
-
-			
-
-					<div className='text-2xl font-twcent font-bold text-white bg-gray-900 backdrop-blur-lg backdrop-opacity-50 rounded-lg p-6'> Event Name: Madurai Kulungaa Kulungaa - Music Concert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-Date: September 23 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-Artists : Sam Vishal, Sakthi Amaran, Vishnupriya Ravi, Srinisha Jayaseelan, Mathichiyam Bala, Reshma Shyam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-Venue: Tamukkam Ground, Madurai</div>		
-					</div>
-				<div className='flex flex-row  flex-row  space-x-5 mb-5'>
+			<div className='flex flex-row  flex-row  space-x-5 mb-5'>
 				<Link href="https://instagram.com/samvishal0928?igshid=MzRlODBiNWFlZA==">
       				<Image
         				className='mx-auto rounded-full my-auto mt-10'
@@ -144,12 +122,40 @@ Venue: Tamukkam Ground, Madurai</div>
       			</Link>
 
 			</div>
+
+			<Image
+    					className='mx-auto  my-auto '
+   						src='/isaiLogo.svg'
+    					alt="Isai Logo"
+    					width={200}
+    					height={200}
+					/>
+
+			<div className=' h-5 w-10/12 mx-auto sm:mt-50 lg:mt-10'>
+				<div className='flex sm:flex-col lg:flex-row space-x-10 '>
+				
+					
+
+			
+
+					<div className='text-2xl font-twcent font-bold text-white bg-gray-900 backdrop-blur-lg backdrop-opacity-50 rounded-lg p-6'> Event Name: Madurai Kulungaa Kulungaa - Music Concert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+Date: September 23 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+Artists : Sam Vishal, Sakthi Amaran, Vishnupriya Ravi, Srinisha Jayaseelan, Mathichiyam Bala, Reshma Shyam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+Venue: Tamukkam Ground, Madurai</div>		
+					</div>
+				
 			
 
 			</div>
 			
 			<div id="about" className='flex font-twcent mt-200 flex-col sm:mt-200 lg:mt-56 text-gray-900 '>
-					<div className='sm:text-lg lg:text-4xl font-bold mx-auto  sm:mt-10 lg:mt-56 '>Madurai Kulunga Kulunga</div>
+					<div className='sm:text-lg  lg:text-4xl font-bold mx-auto  sm:mt-10 lg:mt-30 '>    <Image
+      src='/Madurai2b.png'
+      alt="Madurai"
+      width={400}
+      height={400}
+    />
+</div>
 					{/*<div className='text-lg mt-5 font-bold mx-auto text-gray-500' >GymGenie has helped people in USA, India, Canada, UAE, and 80 more countries </div>*/}			
 			</div>
 			

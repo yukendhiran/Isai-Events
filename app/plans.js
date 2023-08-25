@@ -9,8 +9,8 @@ export default function Plans() {
 					image='/genie.svg'
 					imageName='Free Plan'	
 					title='SPONSORSHIP '
-					details='Telecasting LIVE ADVERTISEMENTS 
-					[Huge LED Screens]
+					details='Telecasting LIVE ADVERTISEMENTS  10 Rotation 30 Seconds
+					[Huge LED Screens] 
 					
 					- Promoting & Advertising All Over MADURAI 
 					[FLEX & POSTERS]
@@ -25,7 +25,7 @@ export default function Plans() {
 					
 					- CONCERT Live 4 HOURS [45 MINS ] AD STREAMING
 					
-					- 10×10 FLEX Inside the Venue'
+					- 10×15 FLEX Inside the Campus'
 					rate='Rate: ₹5,99,999'		
 				/> 
 				
@@ -33,7 +33,7 @@ export default function Plans() {
 					image='/genie.svg'
 					imageName='genie'	
 					title='POWERED BY'
-					details='Telecasting Live Advertisements 
+					details='Telecasting Live Advertisements 5 Rotation 15 - 20 Seconds
 					[HUGE LED SCREEN]
 					
 					- Promoting & Advertising All Over MADURAI 
@@ -42,36 +42,30 @@ export default function Plans() {
 					- Logo Sealed Tickets 
 					[LIVE TICKETS ]
 					
-					- DIGITAL MARKETING More Than 25LAKH Viewers 
+					- DIGITAL REACH More Than 25LAKH Viewers 
 					
 					- CONCERT Live 4Hours [25 Mins] AD STREAMING 
 					
-					- 10K AIERA Premier Membership + 1 MONTH 
 					
-					- 10×10 FLEX INSIDE THE VENUE '
+					- 10×12 FLEX Inside the Campus '
 					rate='Rate: ₹3,99,999'		
 				/>
 				
 				<Card 
 					image='/genie.svg'
 					imageName='genie'	
-					title='ASSOCIATES'
+					title='CO - SPONSOR'
 					details='
-					Telecasting LIVE ADVERTISEMENTS 
+					Telecasting LIVE ADVERTISEMENTS 2 - 3 Rotation 10 - 15 Seconds
 					[HUGE LED SCREEN ]
 					
 					- Promoting & Advertising All Over MADURAI 
 					[FLEX & POSTERS ]
 					
-					- DIGITAL MARKETING More Than 25 Lakh Viewers 
+					- DIGITAL REACH More Than 25 Lakh Viewers 
 					
-					- CONCERT Live 4 Hours 
-					AD STREAMING 
-					
-					- INSIDE THE CAMPUS 
-					[ AD BANNERS ]
 					- 10×10 FLEX 
-					INSIDE THE VENUE '
+					Inside the Campus  '
 					rate='Rate: ₹99,999'		
 				/>
 				</div>
