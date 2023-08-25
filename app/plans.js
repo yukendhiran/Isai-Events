@@ -3,12 +3,12 @@ import Card from './card'
 
 export default function Plans() {
 	return(
-		<div className = 'bg-img bg-cover flex lg:flex-col sm:flex-col sm:justify-center sm:items-center sm:space-y-2  lg:space-y-4'>
+		<div className = 'bg-black bg-cover flex lg:flex-col sm:flex-col sm:justify-center sm:items-center sm:space-y-2  lg:space-y-4'>
 				<div className='mt-10 mb-10 space-y-10'>
 				<Card 
 					image='/genie.svg'
 					imageName='Free Plan'	
-					title='Sponsorship '
+					title='SPONSORSHIP '
 					details='Telecasting LIVE ADVERTISEMENTS 
 					[Huge LED Screens]
 					
@@ -32,7 +32,7 @@ export default function Plans() {
 				<Card 
 					image='/genie.svg'
 					imageName='genie'	
-					title='Powered by'
+					title='POWERED BY'
 					details='Telecasting Live Advertisements 
 					[HUGE LED SCREEN]
 					
@@ -55,7 +55,7 @@ export default function Plans() {
 				<Card 
 					image='/genie.svg'
 					imageName='genie'	
-					title='Assosiates'
+					title='ASSOCIATES'
 					details='
 					Telecasting LIVE ADVERTISEMENTS 
 					[HUGE LED SCREEN ]
@@ -72,7 +72,7 @@ export default function Plans() {
 					[ AD BANNERS ]
 					- 10×10 FLEX 
 					INSIDE THE VENUE '
-					rate='Rate: ₹9,99,99'		
+					rate='Rate: ₹99,999'		
 				/>
 				</div>
 		</div>	

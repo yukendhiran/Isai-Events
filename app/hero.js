@@ -7,7 +7,7 @@ export default function Hero () {
 		<div className='bg-white  overfolw:scroll lg:flex'>
 				<div className='p-7 lg:w-1/2'>
 					<div className='flex flex-row'>
-					<div className='text-6xl font-twcent '>Isai Events India Private Limited  	</div>
+					<div className='text-6xl font-twcent '>ISAI EVENTS INDIA PRIVATE LIMITED</div>
 					
 					</div>
 					
@@ -25,32 +25,37 @@ export default function Hero () {
 					<div className='text-2xl  font-twcent text-black mt-5'  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are thrilled to present an incredible sponsorship opportunity for Madurai Kulungaa Kulungaa - Music concert , a highly anticipated musical extravaganza that is set to captivate audiences and create lasting memories. We believe that your brand&apos;s values align perfectly with our event, and we are excited to invite you to join us as a sponsor. </div>	
 				   		
 				</div>
-				<div className='mx-auto my-auto sm:flex '>
 				<Image
-    					className='mx-auto my-auto mt-10 mb-10'
+    					className='mt-10 mb-10'
    						src='/popster.jpg'
     					alt="poster"
     					width={500}
     					height={500}
-					/> 		
-						
-				</div>
+					/> 	
+				
 			</div>
 
-			<div className='bg-black flex sm:flex-col lg:flex-row bg-cover space-x-0'>
+			<div className='bg-img bg-cover  mx-auto  my-auto flex sm:flex-col lg:flex-row bg-cover space-x-0'>
 			<Image
-    					className=' ml-auto w-auto h-auto my-auto '
+    					className=' mx-auto  my-auto '
    						src='/madurai.png'
     					alt="Madurai"
-    					width={500}
-    					height={500}
+    					width={400}
+    					height={400}
+					/>
+					<Image
+    					className=' mx-auto  my-auto'
+   						src='/isai.png'
+    					alt="Isai Logo"
+    					width={400}
+    					height={400}
 					/>
 			<Image
-    					className='mr-auto w-auto h-auto my-auto '
+    					className='mx-auto  my-auto '
    						src='/date.png'
     					alt="Date"
-						width={700}
-    					height={700}
+						width={400}
+    					height={400}
     					
 					/>
 			</div>
@@ -136,7 +141,7 @@ Venue: Tamukkam Ground, Madurai</div>
 			</div>
 			
 			<div id="about" className='flex font-twcent mt-200 flex-col sm:mt-200 lg:mt-56 text-gray-900 '>
-					<div className='sm:text-lg lg:text-4xl font-bold mx-auto  sm:mt-32 lg:mt-48 '>Madurai Kulunga Kulunga</div>
+					<div className='sm:text-lg lg:text-4xl font-bold mx-auto  sm:mt-32 lg:mt-56 '>Madurai Kulunga Kulunga</div>
 					{/*<div className='text-lg mt-5 font-bold mx-auto text-gray-500' >GymGenie has helped people in USA, India, Canada, UAE, and 80 more countries </div>*/}			
 			</div>
 			
