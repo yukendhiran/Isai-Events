@@ -49,7 +49,7 @@ export default function Plans() {
 					- 10K AIERA Premier Membership + 1 MONTH 
 					
 					- 10×10 FLEX INSIDE THE VENUE '
-					rate='₹3,99,999'		
+					rate='Rate: ₹3,99,999'		
 				/>
 				
 				<Card 
@@ -72,7 +72,7 @@ export default function Plans() {
 					[ AD BANNERS ]
 					- 10×10 FLEX 
 					INSIDE THE VENUE '
-					rate='₹9,99,99'		
+					rate='Rate: ₹9,99,99'		
 				/>
 				</div>
 		</div>	

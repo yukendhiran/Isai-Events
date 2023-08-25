@@ -14,6 +14,9 @@ module.exports = {
       '2xl': '1536px',
     },
     extend: {
+      spacing: {
+        '200': '50rem', // You can adjust the value as needed
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'img': "url('/bg1.jpeg')",

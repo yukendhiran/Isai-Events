@@ -3,7 +3,7 @@ export default function Card(props) {
 	const detailsList = props.details.split('- ').filter((item) => item.trim() !== '');
   
 	return (
-	  <div className='bg-black p-6 rounded-lg shadow-lg h-3/6 sm:w-2/4 mx-auto lg:w-full'>
+	  <div className='bg-black p-6 rounded-lg shadow-lg h-3/6 sm:w-3/4 mx-auto lg:w-full'>
 		<div className="rounded-lg p-6">
 		  <div className='font-bold text-white text-3xl'>{props.title}</div>
 		  <div className='font-bold text-white text-lg'>
