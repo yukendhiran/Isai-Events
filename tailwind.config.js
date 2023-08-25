@@ -14,12 +14,15 @@ module.exports = {
       '2xl': '1536px',
     },
     extend: {
+      fontFamily: {
+        twcent: ['"twcent"', 'sans'],
+      },
       spacing: {
         '200': '45rem', // You can adjust the value as needed
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'img': "url('/bg1.jpeg')",
+        'img': "url('/bg3.jpg')",
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },

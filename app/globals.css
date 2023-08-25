@@ -4,10 +4,16 @@
 
 
 
+@font-face {
+  font-family: 'Fabrikat Kompakt Bold';
+  src: url('/fonts/twcent.ttf') format('ttf');
+  font-weight: bold;
+  font-style: normal;
+}
 
 
 .glassmorphic {
-  backdrop-filter: blur(10px); /* Apply the blur effect */
+  backdrop-filter: blur(70px); /* Apply the blur effect */
   border-radius: 10px; /* Adjust border radius as needed */
   border: 1px solid rgba(255, 255, 255, 0.2); /* Add a border with transparency */
   background-size: cover; /* Ensure the background image covers the entire element */
