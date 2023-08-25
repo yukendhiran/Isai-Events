@@ -152,8 +152,8 @@ Venue: Tamukkam Ground, Madurai</div>
 					<div className='sm:text-lg  lg:text-4xl font-bold mx-auto  sm:mt-10 lg:mt-30 '>    <Image
       src='/Madurai2b.png'
       alt="Madurai"
-      width={400}
-      height={400}
+      width={800}
+      height={800}
     />
 </div>
 					{/*<div className='text-lg mt-5 font-bold mx-auto text-gray-500' >GymGenie has helped people in USA, India, Canada, UAE, and 80 more countries </div>*/}			

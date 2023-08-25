@@ -21,7 +21,7 @@ export default function Plans() {
 					- BROUCHURE Distribution Inside the VENUE 
 					[BROUCHURES]
 					
-					- DIGITAL MARKETING More Than 25 LAKH Viewers
+					- DIGITAL REACH More Than 25 LAKH Viewers
 					
 					- CONCERT Live 4 HOURS [45 MINS ] AD STREAMING
 					
@@ -33,7 +33,7 @@ export default function Plans() {
 					image='/genie.svg'
 					imageName='genie'	
 					title='POWERED BY'
-					details='Telecasting Live Advertisements 5 Rotation 15 - 20 Seconds
+					details='Telecasting Live Advertisements 5 Rotation 15 to 20 Seconds
 					[HUGE LED SCREEN]
 					
 					- Promoting & Advertising All Over MADURAI 
@@ -44,7 +44,6 @@ export default function Plans() {
 					
 					- DIGITAL REACH More Than 25LAKH Viewers 
 					
-					- CONCERT Live 4Hours [25 Mins] AD STREAMING 
 					
 					
 					- 10×12 FLEX Inside the Campus '
@@ -56,7 +55,7 @@ export default function Plans() {
 					imageName='genie'	
 					title='CO - SPONSOR'
 					details='
-					Telecasting LIVE ADVERTISEMENTS 2 - 3 Rotation 10 - 15 Seconds
+					Telecasting LIVE ADVERTISEMENTS 2 to 3 Rotation 10 to 15 Seconds
 					[HUGE LED SCREEN ]
 					
 					- Promoting & Advertising All Over MADURAI 
