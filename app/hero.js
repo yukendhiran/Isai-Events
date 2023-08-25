@@ -45,12 +45,12 @@ export default function Hero () {
     					width={200}
     					height={200}
 					/>
-					<div className='text-2xl sm:mt-10 font-bold text-white bg-gray-900 backdrop-blur-lg backdrop-opacity-50 rounded-lg p-6'> Event Name: Madurai Kulungaa Kulungaa - Music Concert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+					<div className='text-2xl font-bold text-white bg-gray-900 backdrop-blur-lg backdrop-opacity-50 rounded-lg p-6'> Event Name: Madurai Kulungaa Kulungaa - Music Concert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Date: September 23 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Artists : Sam Vishal, Sakthi Amaran, Vishnupriya Ravi, Srinisha Jayaseelan, Mathichiyam Bala, Reshma Shyam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 Venue: Thamukkam Ground</div>		
 					</div>
-				<div className='flex sm:flex-row sm:space-y-5 lg:flex-row  lg:space-x-5'>
+				<div className='flex flex-row  flex-row  space-x-5'>
 				<Link href="https://instagram.com/samvishal0928?igshid=MzRlODBiNWFlZA==">
       				<Image
         				className='mx-auto rounded-full my-auto mt-10'
@@ -112,8 +112,8 @@ Venue: Thamukkam Ground</div>
 
 			</div>
 			
-			<div id="about" className='flex mt-200 flex-col sm:mt-200 lg:mt-80 text-gray-900 '>
-					<div className='text-4xl font-bold mx-auto sm:mt-auto lg:mt-48 '>Madurai Kulunga Kulunga</div>
+			<div id="about" className='flex mt-200 flex-col sm:mt-200 lg:mt-56 text-gray-900 '>
+					<div className='sm:text-lg lg:text-4xl font-bold mx-auto  sm:mx-auto lg:mt-48 '>Madurai Kulunga Kulunga</div>
 					{/*<div className='text-lg mt-5 font-bold mx-auto text-gray-500' >GymGenie has helped people in USA, India, Canada, UAE, and 80 more countries </div>*/}			
 			</div>
 			
