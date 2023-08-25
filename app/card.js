@@ -13,9 +13,9 @@ export default function Card(props) {
 			  ))}
 			</ul>
 		  </div>
-		 {/*<div className='flex'>
+		 <div className='flex'>
 			<span className='font-bold text-white text-2xl my-auto'>{props.rate}</span>
-		  </div>*/}
+		  </div>
 		</div>
 	  </div>
 	);

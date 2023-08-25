@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+
+
 .glassmorphic {
   backdrop-filter: blur(10px); /* Apply the blur effect */
   border-radius: 10px; /* Adjust border radius as needed */

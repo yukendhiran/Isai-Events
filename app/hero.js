@@ -22,7 +22,7 @@ export default function Hero () {
 						</div>	
 					 </div>
 	
-					<div className='text-2xl font-bold  font-serif text-black mt-5'  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are thrilled to present an incredible sponsorship opportunity for Madurai Kulungaa Kulungaa - Music concert , a highly anticipated musical extravaganza that is set to captivate audiences and create lasting memories. We believe that your brand's values align perfectly with our event, and we are excited to invite you to join us as a sponsor. </div>	
+					<div className='text-2xl font-bold  font-serif text-black mt-5'  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are thrilled to present an incredible sponsorship opportunity for Madurai Kulungaa Kulungaa - Music concert , a highly anticipated musical extravaganza that is set to captivate audiences and create lasting memories. We believe that your brand&apos;s values align perfectly with our event, and we are excited to invite you to join us as a sponsor. </div>	
 				   		
 				</div>
 				<div className='mx-auto my-auto sm:flex'>
