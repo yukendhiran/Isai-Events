@@ -18,7 +18,7 @@ module.exports = {
         twcent: ['"twcent"', 'sans'],
       },
       spacing: {
-        '200': '45rem', // You can adjust the value as needed
+        '200': '30rem', // You can adjust the value as needed
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',

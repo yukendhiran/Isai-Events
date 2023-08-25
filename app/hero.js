@@ -26,7 +26,7 @@ export default function Hero () {
 				   		
 				</div>
 				<Image
-    					className='mt-10 mb-10'
+    					className='mx-auto my-auto'
    						src='/popster.jpg'
     					alt="poster"
     					width={500}
@@ -35,40 +35,48 @@ export default function Hero () {
 				
 			</div>
 
-			<div className='bg-img bg-cover  mx-auto  my-auto flex sm:flex-col lg:flex-row bg-cover space-x-0'>
-			<Image
-    					className=' mx-auto  my-auto '
-   						src='/madurai.png'
-    					alt="Madurai"
-    					width={400}
-    					height={400}
-					/>
-					<Image
-    					className=' mx-auto  my-auto'
-   						src='/isai.png'
-    					alt="Isai Logo"
-    					width={400}
-    					height={400}
-					/>
-			<Image
-    					className='mx-auto  my-auto '
-   						src='/date.png'
-    					alt="Date"
-						width={400}
-    					height={400}
-    					
-					/>
-			</div>
+			<div className='bg-img bg-cover flex justify-center space-x-10'>
+  <div className='mx-auto my-auto'>
+    <Image
+      src='/logo1.png'
+      alt="Isai"
+      width={400}
+      height={400}
+    />
+  </div>
+  
+  <div className='mx-auto my-auto'>
+    <Image
+      src='/madurai1.png'
+      alt="Madurai"
+      width={400}
+      height={400}
+    />
+  </div>
+  
+  <div className='mx-auto my-auto'>
+    <Image
+      src='/date1.png'
+      alt="Date"
+      width={400}
+      height={400}
+    />
+  </div>
+</div>
 
-			<div className=' h-5 w-10/12 mx-auto sm:mt-50 lg:mt-10'>
-				<div className='flex sm:flex-col lg:flex-row space-x-10 '>
-				<Image
+
+
+			<Image
     					className='mx-auto  my-auto '
    						src='/isaiLogo.svg'
     					alt="Isai Logo"
     					width={200}
     					height={200}
 					/>
+
+			<div className=' h-5 w-10/12 mx-auto sm:mt-50 lg:mt-10'>
+				<div className='flex sm:flex-col lg:flex-row space-x-10 '>
+				
 					
 
 			
@@ -141,7 +149,7 @@ Venue: Tamukkam Ground, Madurai</div>
 			</div>
 			
 			<div id="about" className='flex font-twcent mt-200 flex-col sm:mt-200 lg:mt-56 text-gray-900 '>
-					<div className='sm:text-lg lg:text-4xl font-bold mx-auto  sm:mt-32 lg:mt-56 '>Madurai Kulunga Kulunga</div>
+					<div className='sm:text-lg lg:text-4xl font-bold mx-auto  sm:mt-10 lg:mt-56 '>Madurai Kulunga Kulunga</div>
 					{/*<div className='text-lg mt-5 font-bold mx-auto text-gray-500' >GymGenie has helped people in USA, India, Canada, UAE, and 80 more countries </div>*/}			
 			</div>
 			
