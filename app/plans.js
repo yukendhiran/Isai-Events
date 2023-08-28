@@ -64,7 +64,7 @@ export default function Plans() {
 					
 					- 10×10 FLEX 
 					Inside the Campus  '
-					rate='Rate: ₹99,999'		
+					rate='Rate: ₹1,49,999'		
 				/>
 				</div>
 		</div>	
