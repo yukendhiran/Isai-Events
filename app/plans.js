@@ -24,15 +24,15 @@ export default function Plans() {
 					- DIGITAL REACH More Than 25 LAKH Viewers
 					
 					
-					- 10×15 FLEX Inside the Campus'
-					rate='Rate: ₹5,99,999'		
+					- 10×15 FLEX Count(4) Inside the Campus'
+					rate='Rate: ₹6 LAKH'		
 				/> 
 				
 				<Card 
 					image='/genie.svg'
 					imageName='genie'	
 					title='POWERED BY'
-					details='Telecasting Live Advertisements 5 Rotation 15 to 20 Seconds
+					details='Telecasting Live Advertisements 5 Rotation  20 Seconds
 					[HUGE LED SCREEN]
 					
 					- Promoting & Advertising All Over MADURAI 
@@ -45,8 +45,8 @@ export default function Plans() {
 					
 					
 					
-					- 10×12 FLEX Inside the Campus '
-					rate='Rate: ₹3,99,999'		
+					- 10×12 FLEX Count(2) Inside the Campus '
+					rate='Rate: ₹4 LAKH'		
 				/>
 				
 				<Card 
@@ -54,7 +54,7 @@ export default function Plans() {
 					imageName='genie'	
 					title='CO - SPONSOR'
 					details='
-					Telecasting LIVE ADVERTISEMENTS 2 to 3 Rotation 10 to 15 Seconds
+					Telecasting LIVE ADVERTISEMENTS 2 to 3 Rotation 15 Seconds
 					[HUGE LED SCREEN ]
 					
 					- Promoting & Advertising All Over MADURAI 
@@ -62,9 +62,9 @@ export default function Plans() {
 					
 					- DIGITAL REACH More Than 25 Lakh Viewers 
 					
-					- 10×10 FLEX 
+					- 8×10 FLEX Count(1)
 					Inside the Campus  '
-					rate='Rate: ₹1,49,999'		
+					rate='Rate: ₹1.5 LAKH'		
 				/>
 				</div>
 		</div>	
